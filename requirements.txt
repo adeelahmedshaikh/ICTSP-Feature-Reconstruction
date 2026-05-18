@@ -1,0 +1,12 @@
+torch
+numpy
+pandas
+matplotlib
+scikit-learn
+statsmodels
+pywavelets
+scipy
+jupyter
+notebook
+tqdm
+einops
